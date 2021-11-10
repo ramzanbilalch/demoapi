@@ -1,5 +1,6 @@
 
-[
+{
+  user:[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -36,3 +37,4 @@
     "password": "Aa@123456"
   }
 ]
+}
